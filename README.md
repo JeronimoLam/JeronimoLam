@@ -3,7 +3,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I'm a computer engineering enthusiast and academic, with a keen interest in both academic and self-taught projects. My GitHub hosts a range of works, from coursework to individual explorations into the world of programming and development. Special highlights include two repositories dedicated to the exercises and reports for the Computer Engineering curriculum (plan 2011).
+I'm a computer engineering enthusiast and academic, with a keen interest in electronics and programming. My GitHub hosts a range of works, from coursework to individual explorations into the world of programming and development.
 
 ## Academic Projects
 - **Taller de Proyecto 1:** 📷🤖 [ObservAR](https://github.com/laureanobruno/ObservAR) - The "ObservAR" project aims to create a robust system utilizing a robotic arm for precise image recognition and object tracking, geared towards applications in automation, medical assistance, and security. It integrates various modules for detection, tracking, and power management, facilitating communication between EDU-CIAA and ESP32-CAM boards for stable object tracking using a specialized dataset.
