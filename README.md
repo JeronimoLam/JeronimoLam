@@ -1,4 +1,4 @@
-### Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
 ## About Me
 I'm a computer engineering enthusiast and academic, with a keen interest in electronics and programming. My GitHub hosts a range of works, from coursework to individual explorations into the world of programming and development.
